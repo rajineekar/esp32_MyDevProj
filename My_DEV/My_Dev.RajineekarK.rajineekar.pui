@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "My_Dev.RajineekarK.rajineekar.dtd">
+<PRJ>
+  <Folder Name="/home/rajineekar/Documents/Esp32_Projects/My_DEV/main/">
+    <Expand>1</Expand>
+  </Folder>
+  <Project_Information>
+    <Working_Time>309</Working_Time>
+    <Project_Start>2D0000002700000014000000100000000000000078000000040000000F00000000000000F4550000584D000000000000804FE2BAF4550000A5</Project_Start>
+    <MDIPerspective/>
+  </Project_Information>
+  <Active_Settings>
+    <Active_File_Display_Mode>-1</Active_File_Display_Mode>
+  </Active_Settings>
+</PRJ>

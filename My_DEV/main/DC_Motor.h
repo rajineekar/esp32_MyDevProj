@@ -1,0 +1,16 @@
+#ifndef _DC_MOTOR_H
+#define _DC_MOTOR_H
+
+#define VEHICLE_FRONT_LEFT_MOTOR_1  var
+#define VEHICLE_FRONT_LEFT_MOTOR_2  var
+#define VEHICLE_FRONT_RIGHT_MOTOR_1 var
+#define VEHICLE_FRONT_RIGHT_MOTOR_2 var
+#define VEHICLE_BACK_LEFT_MOTOR_1   var
+#define VEHICLE_BACK_LEFT_MOTOR_2   var
+#define VEHICLE_BACK_RIGHT_MOTOR_1  var
+#define VEHICLE_BACK_RIGHT_MOTOR_2  var
+
+#defien TRUE  1
+#define FALSE 0
+
+#endif
